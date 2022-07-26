@@ -18,5 +18,5 @@ You can use the following command to generate the fingerprint via the Java keyto
 keytool -list -v -keystore <your_keystore_filename>
 ```
 
-You can also do it manually, there is an exemple implemented in this demo app:
+You can also ask the user to do it manually, there is an exemple implemented in this demo app:
 https://github.com/YavinAPI/Demo-Android-Ticket-Json/blob/f986fc604a47a4adc7ea2c3cddfcb9aa4a74d25e/app/src/main/java/com/yavin/linker/MainActivity.kt#L48-L59
