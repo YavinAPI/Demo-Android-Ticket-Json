@@ -5,7 +5,7 @@ Can be tested through adb:
 adb shell am start -a android.intent.action.VIEW -c android.intent.category.BROWSABLE -d "https://my.yavin.com/ticket/twTOukE3/"
 ```
 
-# Associate the yavin link (Android 12)
+# Associate Yavin link (Android 12)
 
 Since Android 12 is required to explicitly associate the link and the application, otherwise the browser will be prioritize.<br>
 
